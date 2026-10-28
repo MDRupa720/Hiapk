@@ -1,0 +1,6 @@
+{
+  "name": "ZIP2APK Studio",
+  "description": "Convert AI Studio project ZIPs into installable Android APK files with project analysis and AI repair.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
